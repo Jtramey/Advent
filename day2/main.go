@@ -1,7 +1,7 @@
 package main
 
 import (
-	readAOC "advent/utils"
+	readAOC "../utils"
 	"fmt"
 	"strconv"
 	"strings"
